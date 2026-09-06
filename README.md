@@ -10,13 +10,25 @@ Este taller introduce los retos actuales de la red eléctrica y el papel de las 
 |---|---|
 | **Título** | Redes eléctricas inteligentes: mediciones, ciencia de datos e inteligencia artificial |
 | **Fechas** | 19–21 de septiembre de 2026 |
-| **Instructor** | Francisco Zelaya Ph.D. |
+| **Instructor** | Francisco Zelaya, Ph.D. |
 | **Email** | [fzelaya223@gmail.com](mailto:fzelaya223@gmail.com) |
 | **Afiliación** | Dominion Energy Virginia |
 | **Bio** | Francisco es ingeniero eléctrico salvadoreño con un doctorado en Ingeniería Eléctrica por la Universidad de Tennessee, Knoxville. Actualmente trabaja como Senior Engineer en Dominion Energy, donde participa en iniciativas relacionadas con la integración de nuevas tecnologías y grandes cargas a la red eléctrica. Su experiencia profesional y de investigación incluye operación y dinámica de sistemas eléctricos, mediciones sincronizadas, ciencia de datos e inteligencia artificial aplicada al monitoreo y control de la red. Le interesa acercar estas herramientas a estudiantes y promover oportunidades de formación e innovación en STEM en El Salvador y Centroamérica. |
 | **LinkedIn** | www.linkedin.com/in/franciscozelaya |
 | **Google Scholar** | https://scholar.google.com/citations?user=PfaEoQEAAAAJ&hl=es |
 
+
+## Audiencia
+
+El taller está dirigido a estudiantes de tercero a quinto año de Ingeniería Eléctrica, Ingeniería Energética, Ingeniería en Computación y carreras afines.
+
+## Requisitos previos
+
+- Conocimientos básicos de ingeniería, matemáticas o programación.
+- No se requiere experiencia previa en aprendizaje automático.
+- No se requiere tener MATLAB instalado.
+- Las actividades prácticas se realizarán mediante Google Colab.
+- Se recomienda llevar una computadora con acceso a internet.
 
 ## Día 1 — Transformación de la red y mediciones inteligentes
 
@@ -75,3 +87,8 @@ Aplicar herramientas de ciencia de datos e inteligencia artificial para analizar
 
 - ¿Qué es la red Eléctrica?: https://www.youtube.com/watch?v=v1BMWczn7JM .
 - Unidades de medición fasorial (Phasor Measurement Unit (PMU)) : https://share.google/K0mebZoAdvNJOvNHu
+
+## Aviso
+
+Este taller fue desarrollado con fines educativos para InspiraSTEM 2026. Las opiniones y materiales presentados son responsabilidad del instructor y no representan la posición de su empleador.
+
