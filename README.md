@@ -1,5 +1,23 @@
 # InspiraSTEM 2026 - Ciencia de Datos e Inteligencia Artificial Aplicada a Redes Eléctricas
 
+## Resumen del Taller
+Este taller introduce los retos actuales de la red eléctrica y el papel de las mediciones inteligentes en su monitoreo. Los estudiantes aprenderán a visualizar e interpretar series de tiempo de frecuencia, voltaje, corriente y potencia, preparar datos para su análisis y aplicar modelos básicos de inteligencia artificial. Mediante una práctica guiada y un proyecto, clasificarán eventos eléctricos, evaluarán la confiabilidad de los resultados y discutirán posibles aplicaciones en redes eléctricas inteligentes.
+
+
+## Datos del workshop
+
+| | |
+|---|---|
+| **Título** | Redes eléctricas inteligentes: mediciones, ciencia de datos e inteligencia artificial |
+| **Fechas** | 19–21 de septiembre de 2026 |
+| **Instructor** | Francisco Zelaya Ph.D. |
+| **Email** | [fzelaya223@gmail.com](mailto:fzelaya223@gmail.com) |
+| **Afiliación** | Dominion Energy Virginia |
+| **Bio** | Francisco es ingeniero eléctrico salvadoreño con un doctorado en Ingeniería Eléctrica por la Universidad de Tennessee, Knoxville. Actualmente trabaja como Senior Engineer en Dominion Energy, donde participa en iniciativas relacionadas con la integración de nuevas tecnologías y grandes cargas a la red eléctrica. Su experiencia profesional y de investigación incluye operación y dinámica de sistemas eléctricos, mediciones sincronizadas, ciencia de datos e inteligencia artificial aplicada al monitoreo y control de la red. Le interesa acercar estas herramientas a estudiantes y promover oportunidades de formación e innovación en STEM en El Salvador y Centroamérica. |
+| **LinkedIn** | www.linkedin.com/in/franciscozelaya |
+| **Google Scholar** | https://scholar.google.com/citations?user=PfaEoQEAAAAJ&hl=es |
+
+
 ## Día 1 — Transformación de la red y mediciones inteligentes
 
 ### Meta
@@ -52,3 +70,7 @@ Aplicar herramientas de ciencia de datos e inteligencia artificial para analizar
 - Análisis de predicciones incorrectas o de baja confianza.
 - Generación de un reporte automático de eventos.
 - Presentación de resultados y discusión de posibles aplicaciones en redes eléctricas inteligentes.
+
+## Referencias 
+
+¿Qué es la red Eléctrica?: https://www.youtube.com/watch?v=v1BMWczn7JM
