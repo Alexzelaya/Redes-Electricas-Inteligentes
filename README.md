@@ -1,4 +1,4 @@
-# Taller: Ciencia de Datos e Inteligencia Artificial Aplicada a Redes Eléctricas
+# InspiraSTEM 2026 - Ciencia de Datos e Inteligencia Artificial Aplicada a Redes Eléctricas
 
 ## Día 1 — Transformación de la red y mediciones inteligentes
 
