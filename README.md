@@ -73,4 +73,5 @@ Aplicar herramientas de ciencia de datos e inteligencia artificial para analizar
 
 ## Referencias 
 
-¿Qué es la red Eléctrica?: https://www.youtube.com/watch?v=v1BMWczn7JM
+- ¿Qué es la red Eléctrica?: https://www.youtube.com/watch?v=v1BMWczn7JM .
+- Unidades de medición fasorial (Phasor Measurement Unit (PMU)) : https://share.google/K0mebZoAdvNJOvNHu
