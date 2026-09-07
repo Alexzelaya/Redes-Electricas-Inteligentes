@@ -4,7 +4,7 @@
 Este taller introduce los retos actuales de la red eléctrica y el papel de las mediciones inteligentes en su monitoreo. Los estudiantes aprenderán a visualizar e interpretar series de tiempo de frecuencia, voltaje, corriente y potencia, preparar datos para su análisis y aplicar modelos básicos de inteligencia artificial. Mediante una práctica guiada y un proyecto, clasificarán eventos eléctricos, evaluarán la confiabilidad de los resultados y discutirán posibles aplicaciones en redes eléctricas inteligentes.
 
 
-## Datos del workshop
+## Datos del workshop 
 
 | | |
 |---|---|
