@@ -14,7 +14,7 @@ Para este día realizaremos actividades grupales. Por favor, identifiquen el nú
 
 | Nombre completo                          | Grupo | Carrera                                          |
 |------------------------------------------|:-----:|--------------------------------------------------|
-| Ever Leonardo Ramos Alas                 | 1     | Ingeniería Biomédica                             |
+| Ever Leonardo Ramos Alas                 | 5     | Ingeniería Biomédica                             |
 | Angela Veronica Pineda Miranda           | 3     | Ingeniería de Sistemas Informáticos              |
 | Pamela Nicole Carranza Constante         | 1     | Ingeniería Eléctrica                             |
 | María de los Ángeles Torrento Andino     | 2     | Ingeniería Eléctrica                             |
