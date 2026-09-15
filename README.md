@@ -88,6 +88,7 @@ Aplicar herramientas de ciencia de datos e inteligencia artificial para analizar
 - ¿Qué es la red Eléctrica?: https://www.youtube.com/watch?v=v1BMWczn7JM .
 - Unidades de medición fasorial (Phasor Measurement Unit (PMU)) : https://share.google/K0mebZoAdvNJOvNHu
 - Power System Simulator: https://github.com/PSSim/PSSim
+- Introducción a Google Colab y Python:	https://www.youtube.com/playlist?list=PLKd7y--oK26dWXHV0Aoi5eOgoikk3Fp-J
 
 ## Aviso
 
