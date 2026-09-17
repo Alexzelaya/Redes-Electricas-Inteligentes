@@ -1,10 +1,14 @@
-# InspiraSTEM 2026 - Ciencia de Datos e Inteligencia Artificial Aplicada a Redes Eléctricas
+# InspiraSTEM 2026 — Ciencia de Datos e Inteligencia Artificial Aplicada a Redes Eléctricas
 
-## Resumen del Taller
-Este taller introduce los retos actuales de la red eléctrica y el papel de las mediciones inteligentes en su monitoreo. Los estudiantes aprenderán a visualizar e interpretar series de tiempo de frecuencia, voltaje, corriente y potencia, preparar datos para su análisis y aplicar modelos básicos de inteligencia artificial. Mediante una práctica guiada y un proyecto, clasificarán eventos eléctricos, evaluarán la confiabilidad de los resultados y discutirán posibles aplicaciones en redes eléctricas inteligentes.
+## Resumen del taller
 
+Este taller introduce la transformación de la red eléctrica y los desafíos asociados con la integración de energías renovables, vehículos eléctricos, centros de datos y otras tecnologías inteligentes. Los estudiantes conocerán cómo variables como el voltaje, la frecuencia y la potencia permiten evaluar el comportamiento dinámico del sistema, así como el papel de SCADA y las unidades de medición fasorial (PMU) en su monitoreo.
 
-## Datos del workshop 
+Mediante actividades grupales y prácticas en Google Colab, los participantes visualizarán series de tiempo, identificarán características de diferentes eventos eléctricos y analizarán el efecto del ruido en las mediciones. Posteriormente, utilizarán modelos básicos de aprendizaje automático para clasificar condiciones normales, disparos de generadores, cortocircuitos, incrementos de carga y pérdidas de carga.
+
+Finalmente, aplicarán lo aprendido en un proyecto de análisis y clasificación de eventos, evaluando el desempeño y la confiabilidad de los resultados.
+
+## Datos del workshop
 
 | | |
 |---|---|
@@ -14,19 +18,18 @@ Este taller introduce los retos actuales de la red eléctrica y el papel de las 
 | **Email** | [fzelaya223@gmail.com](mailto:fzelaya223@gmail.com) |
 | **Afiliación** | Dominion Energy Virginia |
 | **Bio** | Francisco es ingeniero eléctrico salvadoreño con un doctorado en Ingeniería Eléctrica por la Universidad de Tennessee, Knoxville. Actualmente trabaja como Senior Engineer en Dominion Energy, donde participa en iniciativas relacionadas con la integración de nuevas tecnologías y grandes cargas a la red eléctrica. Su experiencia profesional y de investigación incluye operación y dinámica de sistemas eléctricos, mediciones sincronizadas, ciencia de datos e inteligencia artificial aplicada al monitoreo y control de la red. Le interesa acercar estas herramientas a estudiantes y promover oportunidades de formación e innovación en STEM en El Salvador y Centroamérica. |
-| **LinkedIn** | www.linkedin.com/in/franciscozelaya |
-| **Google Scholar** | https://scholar.google.com/citations?user=PfaEoQEAAAAJ&hl=es |
-
+| **LinkedIn** | [www.linkedin.com/in/franciscozelaya](https://www.linkedin.com/in/franciscozelaya) |
+| **Google Scholar** | [Perfil de Google Scholar](https://scholar.google.com/citations?user=PfaEoQEAAAAJ&hl=es) |
 
 ## Audiencia
 
-El taller está dirigido a estudiantes de tercero a quinto año de Ingeniería Eléctrica, Ingeniería Energética, Ingeniería en Computación y carreras afines.
+El taller está dirigido a estudiantes de tercero a quinto año de Ingeniería Eléctrica, Ingeniería Energética, Ingeniería en Computación, Ingeniería de Software, Ciberseguridad, Ciencia de Datos y carreras afines.
 
 ## Requisitos previos
 
 - Conocimientos básicos de ingeniería, matemáticas o programación.
 - No se requiere experiencia previa en aprendizaje automático.
-- No se requiere tener MATLAB instalado.
+- No se requiere tener MATLAB ni Python instalados.
 - Las actividades prácticas se realizarán mediante Google Colab.
 - Se recomienda llevar una computadora con acceso a internet.
 
@@ -34,36 +37,49 @@ El taller está dirigido a estudiantes de tercero a quinto año de Ingeniería E
 
 ### Meta
 
-Comprender los retos de la transición energética y cómo las mediciones inteligentes permiten observar la dinámica de la red eléctrica.
+Comprender cómo está cambiando la red eléctrica, cuáles son los principales retos de esta transformación y cómo las mediciones permiten observar su comportamiento.
 
 ### Temas y actividades
 
-- Funcionamiento y transformación de la red eléctrica.
+- Funcionamiento básico de la red eléctrica.
+- Diferencias entre una red eléctrica tradicional y una red inteligente.
 - Integración de energías renovables, vehículos eléctricos, centros de datos y cargas inteligentes.
-- Retos relacionados con frecuencia, voltaje, estabilidad y confiabilidad.
-- Introducción a las redes eléctricas inteligentes, SCADA, PMUs y datos sincronizados.
-- Interpretación de series de tiempo de frecuencia, voltaje, corriente y potencia.
-- Actividad visual para reconocer condiciones normales y eventos eléctricos.
-- Introducción al dataset y al proyecto del taller.
+- Introducción a los recursos basados en inversores y sus diferencias respecto a las máquinas síncronas.
+- Conceptos básicos de voltaje, frecuencia, estabilidad y confiabilidad.
+- Retos asociados con la operación, los datos, las comunicaciones y la ciberseguridad.
+- Introducción a los sistemas SCADA, PMU y mediciones sincronizadas.
+- Uso de mediciones de voltaje, frecuencia y potencia para comprender el estado de la red.
+- Actividades grupales para analizar los retos de la red inteligente y proponer posibles soluciones.
+- Introducción a la aplicación de la ciencia de datos y la inteligencia artificial en sistemas eléctricos.
 
 ---
 
-## Día 2 — Ciencia de datos e IA aplicada a redes eléctricas
+## Día 2 — Análisis de señales y clasificación de eventos eléctricos
 
 ### Meta
 
-Explorar cómo las mediciones inteligentes y las herramientas de análisis de datos pueden utilizarse para identificar eventos y apoyar el monitoreo de la red eléctrica.
+Utilizar mediciones de la red eléctrica para reconocer el comportamiento de diferentes eventos y entrenar modelos básicos de clasificación.
 
 ### Temas y actividades
 
-- Introducción a las series de tiempo provenientes de mediciones inteligentes.
-- Visualización e interpretación de frecuencia, voltaje, corriente y potencia.
-- Identificación de características relevantes de diferentes eventos eléctricos.
-- Introducción a la preparación de datos para su análisis.
-- Conceptos básicos de aprendizaje automático y clasificación.
-- Práctica guiada de entrenamiento y evaluación de un modelo sencillo.
-- Análisis del efecto de la calidad de los datos en los resultados.
-- Discusión sobre las capacidades, limitaciones y posibles aplicaciones de la IA en el monitoreo de redes eléctricas.
+- Introducción a Google Colab y al análisis de datos con Python.
+- Carga, exploración y organización de series de tiempo.
+- Visualización de señales de voltaje, frecuencia y potencia activa y reactiva.
+- Comparación entre la operación normal y diferentes eventos eléctricos.
+- Identificación manual de patrones y características relevantes en las señales.
+- Cálculo de valores mínimos, máximos, cambios, tiempos y características de las oscilaciones.
+- Análisis de los siguientes eventos:
+  - Operación normal.
+  - Disparo de generador.
+  - Cortocircuito.
+  - Incremento de carga.
+  - Pérdida de carga.
+- Introducción al ruido gaussiano y análisis de su efecto sobre las mediciones.
+- Preparación y división de los datos para entrenamiento, validación y prueba.
+- Entrenamiento y evaluación de modelos básicos de clasificación.
+- Comparación del desempeño de los modelos utilizando señales limpias y señales con ruido.
+- Interpretación de métricas de desempeño y matrices de confusión.
+- Discusión sobre las capacidades y limitaciones de la inteligencia artificial en el monitoreo de la red.
 
 ---
 
@@ -83,14 +99,13 @@ Aplicar herramientas de ciencia de datos e inteligencia artificial para analizar
 - Generación de un reporte automático de eventos.
 - Presentación de resultados y discusión de posibles aplicaciones en redes eléctricas inteligentes.
 
-## Referencias 
+## Referencias
 
-- ¿Qué es la red Eléctrica?: https://www.youtube.com/watch?v=v1BMWczn7JM .
-- Unidades de medición fasorial (Phasor Measurement Unit (PMU)) : https://share.google/K0mebZoAdvNJOvNHu
-- Power System Simulator: https://github.com/PSSim/PSSim
-- Introducción a Google Colab y Python:	https://www.youtube.com/playlist?list=PLKd7y--oK26dWXHV0Aoi5eOgoikk3Fp-J
+- [¿Qué es la red eléctrica?](https://www.youtube.com/watch?v=v1BMWczn7JM)
+- [Unidades de medición fasorial (PMU)](https://share.google/K0mebZoAdvNJOvNHu)
+- [Power System Simulator](https://github.com/PSSim/PSSim)
+- [Introducción a Google Colab y Python](https://www.youtube.com/playlist?list=PLKd7y--oK26dWXHV0Aoi5eOgoikk3Fp-J)
 
 ## Aviso
 
-Este taller fue desarrollado con fines educativos para InspiraSTEM 2026. Las opiniones y materiales presentados son responsabilidad del instructor y no representan la posición de su empleador.
-
+Este taller fue desarrollado con fines educativos para InspiraSTEM 2026. Las opiniones y los materiales presentados son responsabilidad del instructor y no representan la posición de su empleador.
